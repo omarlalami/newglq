@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="exo1"/>
+	<classpathentry kind="src" path="exo2"/>
+	<classpathentry kind="src" path="exo3"/>
+	<classpathentry kind="src" path="exo4"/>
+	<classpathentry kind="src" path="exo5"/>
+	<classpathentry kind="src" path="exo6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/l16024220/Downloads/tableau.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
